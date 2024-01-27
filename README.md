@@ -2,7 +2,7 @@
 
 🔭 My interests lie in the world of JavaScript, TypeScript, React.js, Angular, and various JavaScript libraries and frameworks.\
 
-🤔 Continuously enhancing expertise in DSA, system design, and advancing Node.js skills for comprehensive Git profile.
+🤔 Continuously enhancing expertise in DSA, system design, and advancing Node.js skills.
 
 👯 I'm open to collaboration on projects related to DSA, Blockchain, Generative AI, and JavaScript.
 
