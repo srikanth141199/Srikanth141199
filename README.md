@@ -1,6 +1,6 @@
-👋 Hi there! I'm Srikanth, currently employed at Wipro.
+👋 Hi there! I'm Srikanth, currently employed at Capgemini.
 
-🔭 My interests lie in the world of JavaScript, TypeScript, React.js, Angular, and various JavaScript libraries and frameworks.
+🔭 My interests lie in the world of JavaScript, TypeScript, React.js, Node JS, and various JavaScript libraries and frameworks.
 
 🤔 Continuously enhancing expertise in DSA, system design, and advancing Node.js skills.
 
